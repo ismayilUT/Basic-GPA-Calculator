@@ -1,0 +1,18 @@
+MJRI.09.031,Microeconomics, 9 
+MJRI.08.063,Intermediate Public Economics, 6 
+MJJV.07.100,International Trade Theory, 6 
+MJRI.09.030,Mathematical Methods in Economics, 6 
+MJRI.10.038,Macroeconomics, 9 
+MJRI.09.031,Microeconometrics, 9 
+MJRI.02.086,Evaluation of Economic Policies, 6
+MJRI.02.083,Decision and game theory models, 6 
+MJRI.01.043,Mathematical Statistics, 6 
+MJRI.02.085,Macroeconometrics, 6 
+MJRI.10.039,Monetary Economics, 6 
+MTAT.03.231,Business Process Management, 6 
+MJRI.10.041,Labour Economics, 9 
+MJRI.10.040,Macro extentions: development economics, 6 
+SVMJ.04.020,Introduction to Matlab, 3 
+SVMJ.04.011,Introduction to R Software, 3 
+MTAT.03.236,Introduction to Programming, 3
+MTAT.03.256,Introduction to Programming II, 3 
